@@ -1,4 +1,4 @@
-# Hi there
+# Hi there👋
 
 I'm Niti,I'm Full-Stack Software Engineer. I have 3+ years of experience as a Software Engineer. I'm extremely passionate about developing software.
 
